@@ -1,0 +1,827 @@
+{
+  "ar": {
+    "navbar": {
+      "hero": "الرئيسية",
+      "about": "عن الشركة",
+      "missionVision": "الرؤية والرسالة",
+      "chooseUs": "لماذا تختارنا",
+      "equipments": "المعدات",
+      "projects": "المشاريع",
+      "clients": "عملائنا",
+      "faqs": "الأسئلة الشائعة",
+      "contact": "اتصل بنا",
+      "cta": "طلب تسعيرة",
+      "languageToggle": "English"
+    },
+    "hero": {
+      "tagline": "شريكك الموثوق في المشاريع الإنشائية",
+      "title": "قوة، أداء، واعتمادية",
+      "titleSpan": "لإنجاز مشاريعك الكبرى",
+      "description": "نوفر أحدث المعدات الثقيلة والإنشائية مع خدمات الصيانة المتكاملة والدعم الفني على مدار الساعة لضمان استمرارية أعمالك وكفاءة مشاريعك بأفضل الأسعار.",
+      "ctaExplore": "تصفح المعدات المتاحة",
+      "ctaConsult": "احصل على استشارة مجانية",
+      "stats": [
+        {
+          "value": "+500",
+          "label": "معدة حديثة وجاهزة"
+        },
+        {
+          "value": "+15",
+          "label": "عاماً من الخبرة والريادة"
+        },
+        {
+          "value": "%99",
+          "label": "نسبة رضا العملاء"
+        }
+      ]
+    },
+    "about": {
+      "tagline": "من نحن",
+      "title": "الذراع القوي والداعم",
+      "titleSpan": "لأعمال المقاولات والإنشاءات",
+      "text": "تُعد مؤسسة فهد مشبب الدوسري من الجهات الموثوقة في مجال تأجير المعدات عالية الجودة لقطاعات الإنشاءات والأعمال الصناعية والفعاليات. نوفر مجموعة واسعة من المعدات والآليات الموثوقة مدعومة بخدمة عملاء متميزة، لضمان حصول عملائنا على المعدات المناسبة لإنجاز مشاريعهم بكفاءة وأمان وضمن الميزانية المحددة.",
+      "features": [
+        {
+          "title": "أمان مطلق ومعتمد",
+          "desc": "تخضع جميع معداتنا لفحوصات دورية صارمة وتراخيص معتمدة لضمان سلامة موقعك وفريق عملك."
+        },
+        {
+          "title": "دعم فني وصيانة 24/7",
+          "desc": "فريق صيانة متنقل مستعد للتدخل فوراً في أي وقت لضمان سير العمل دون توقف."
+        },
+        {
+          "title": "أسطول حديث ومتنوع",
+          "desc": "نوفر أحدث موديلات المعدات من كبرى الشركات العالمية (كاتربيلر، كوماتسو، جي سي بي)."
+        },
+        {
+          "title": "شروط تأجير مرنة",
+          "desc": "خيارات تأجير يومية، أسبوعية، شهرية، أو سنوية مصممة خصيصاً لتناسب حجم وتدفق ميزانيتك."
+        }
+      ],
+      "highlightsTitle": "إنجازات تدعو للفخر",
+      "highlights": [
+        {
+          "label": "المشاريع المساهم بها",
+          "value": "+1,200 مشروع"
+        },
+        {
+          "label": "جاهزية تشغيل الأسطول",
+          "value": "99.8% Uptime"
+        },
+        {
+          "label": "فريق الفنيين والمهندسين",
+          "value": "+150 خبير"
+        },
+        {
+          "label": "الفروع وتغطية المدن",
+          "value": "كافة أنحاء المملكة"
+        }
+      ]
+    },
+    "chooseUs": {
+      "title": "لماذا تختار مؤسسة فهد مشبب الدوسري؟",
+      "subtitle": "شريككم الموثوق لتأجير المعدات ودعم المشاريع بكفاءة واحترافية.",
+      "reasons": [
+        {
+          "title": "مخزون متنوع وشامل",
+          "desc": "نوفر مجموعة واسعة من المعدات والآليات، من المعدات الثقيلة إلى الأدوات الصغيرة، لتلبية احتياجات المشاريع بمختلف أحجامها."
+        },
+        {
+          "title": "معدات تخضع لصيانة دورية",
+          "desc": "نحرص على إجراء الفحوصات والصيانة المنتظمة لضمان جاهزية المعدات وكفاءتها العالية في جميع الأوقات."
+        },
+        {
+          "title": "خيارات تأجير مرنة",
+          "desc": "نوفر حلول تأجير يومية وأسبوعية وشهرية تناسب متطلبات مشروعك وميزانيتك."
+        },
+        {
+          "title": "دعم واستشارات متخصصة",
+          "desc": "فريقنا من الخبراء جاهز لمساعدتك في اختيار المعدات المناسبة وضمان أفضل أداء لأعمالك."
+        },
+        {
+          "title": "التسليم في الوقت المحدد",
+          "desc": "نلتزم بتوفير وتسليم المعدات في الموعد المتفق عليه للحفاظ على سير المشروع دون تأخير."
+        },
+        {
+          "title": "متابعة الأداء والتشغيل",
+          "desc": "نوفر لعملائنا من الشركات تقارير دورية حول كفاءة المعدات وساعات التشغيل الفعلية لدعم إدارة المشاريع وتحسين الإنتاجية."
+        }
+      ]
+    },
+    "missionVision": {
+      "title": "رؤيتنا ورسالتنا وقيمنا",
+      "subtitle": "تعرف على الركائز الأساسية والمبادئ المهنية التي تحرك مسيرة نجاح مؤسسة فهد مشبب الدوسري.",
+      "tabs": {
+        "mission": {
+          "title": "رسالتنا",
+          "subtitle": "لماذا نحن هنا وكيف نساهم؟"
+        },
+        "vision": {
+          "title": "رؤيتنا",
+          "subtitle": "طموحنا للمستقبل الإنشائي"
+        },
+        "values": {
+          "title": "قيمنا الأساسية",
+          "subtitle": "المبادئ التي تقود قراراتنا"
+        }
+      },
+      "details": {
+        "mission": {
+          "title": "تمكين المشاريع ببنية تحتية قوية وموثوقة",
+          "text": "رسالتنا تمكين الشركات والأفراد من الوصول إلى معدات عالية الجودة، متوفرة وجاهزة للاستخدام، بأسعار مناسبة، مما يساعدهم على تحقيق أهدافهم دون تحمل تكاليف التملك والصيانة المرتفعة.",
+          "list": [
+            {
+              "id": 1,
+              "title": "الالتزام المطلق بالسلامة والجودة",
+              "text": ""
+            },
+            {
+              "id": 2,
+              "title": "توفير حلول لوجستية متطورة وسريعة",
+              "text": ""
+            },
+            {
+              "id": 3,
+              "title": "تقديم باقات تمويلية وتأجيرية مرنة",
+              "text": ""
+            },
+            {
+              "id": 4,
+              "title": "الاستثمار المستمر في كفاءات فريقنا",
+              "text": ""
+            }
+          ]
+        },
+        "vision": {
+          "title": "الريادة الإقليمية في حلول تأجير الآليات",
+          "text": "نطمح في مؤسسة فهد مشبب الدوسري أن نكون الخيار الأول والذراع الهندسي المعتمد لكافة شركات المقاولات والبناء الكبرى في المنطقة. نسعى لقيادة التحول الرقمي والتقني في مجال تأجير الآليات الثقيلة، من خلال دمج أنظمة تتبع ذكية وحلول تشغيل صديقة للبيئة تخدم مستقبل قطاع التشييد.",
+          "list": [
+            {
+              "id": 1,
+              "title": "التوسع الجغرافي وبناء فروع إقليمية جديدة",
+              "text": ""
+            },
+            {
+              "id": 2,
+              "title": "التحول الرقمي الكامل لعمليات الحجز والتتبع",
+              "text": ""
+            },
+            {
+              "id": 3,
+              "title": "تقليل الانبعاثات الكربونية لأسطولنا",
+              "text": ""
+            },
+            {
+              "id": 4,
+              "title": "المساهمة في تحقيق رؤية المملكة 2030",
+              "text": ""
+            }
+          ]
+        },
+        "values": {
+          "title": "مبادئ راسخة تبني ثقة مستدامة",
+          "text": "نؤمن في مؤسسة فهد مشبب الدوسري أن القيم هي الأساس الحقيقي لأي علاقة عمل ناجحة. لذلك، فإن كافة تعاملاتنا اليومية مع عملائنا وشركائنا محكومة بمجموعة من المبادئ الأخلاقية والمهنية الصارمة التي تضمن الشفافية والمسؤولية التامة.",
+          "list": [
+            {
+              "id": 1,
+              "title": "الأمان أولاً وبلا تهاون",
+              "text": "نضع سلامة عملائنا وفريق عملنا والمجتمع في مقدمة أولوياتنا من خلال الصيانة الدورية والتدريب المستمر والالتزام بمعايير السلامة."
+            },
+            {
+              "id": 2,
+              "title": "الموثوقية و النزاهة",
+              "text": "نقدم معدات وخدمات موثوقة يمكن الاعتماد عليها في جميع الأوقات، لضمان نجاح أعمال عملائنا بكفاءة وثقة. و نعمل بأمانة وشفافية وعدالة في جميع تعاملاتنا، ونبني علاقات قائمة على الثقة والاحترام المتبادل"
+            },
+            {
+              "id": 3,
+              "title": "التركيز على العميل",
+              "text": "نستمع إلى عملائنا، ونسعى لفهم احتياجاتهم، ونتكيف لتقديم الحلول التي تلبي متطلباتهم الخاصة."
+            },
+            {
+              "id": 4,
+              "title": "الابتكار",
+              "text": "نتبنى التقنيات الحديثة والحلول الذكية لتعزيز الكفاءة وتحسين جودة الخدمات التي نقدمها."
+            },
+            {
+              "id": 5,
+              "title": "الاستدامة",
+              "text": "ندعم الممارسات الصديقة للبيئة ونشجع الاستخدام المسؤول للموارد للمساهمة في مستقبل أكثر استدامة."
+            },
+            {
+              "id": 6,
+              "title": "التركيز على العميل",
+              "text": "نستمع إلى عملائنا، ونسعى لفهم احتياجاتهم، ونتكيف لتقديم الحلول التي تلبي متطلباتهم الخاصة."
+            }
+          ]
+        }
+      }
+    },
+    "projects": {
+      "title": "أبرز المشاريع المساهم بها",
+      "subtitle": "نفخر بكوننا شريك النجاح الذي اعتمدت عليه كبرى شركات المقاولات لتوفير الآليات الثقيلة وتسهيل إتمام أضخم المشروعات القومية والتنموية.",
+      "filters": {
+        "all": "الكل",
+        "infrastructure": "البنية التحتية",
+        "transport": "النقل والمواصلات",
+        "energy": "الطاقة والمرافق"
+      },
+      "list": [
+        {
+          "id": 1,
+          "tag": "البنية التحتية",
+          "category": "infrastructure",
+          "title": "مشروع ذا لاين - نيوم",
+          "desc": "توفير أسطول متكامل من الحفارات المجنزرة وبلدوزرات D10 الضخمة لتسوية الأرض وتمهيد مسار التشييد الأولي لمدينة المستقبل الذكية.",
+          "machinery": "50 حفار وبلدوزر",
+          "duration": "18 شهر"
+        },
+        {
+          "id": 2,
+          "tag": "النقل والمواصلات",
+          "category": "transport",
+          "title": "مشروع مترو الرياض",
+          "desc": "توفير رافعات تلسكوبية عملاقة (حتى 200 طن) ومضخات خرسانية متحركة لتسهيل عمليات صب الخرسانة وتركيب الجسور بمختلف المحطات الرئيسية.",
+          "machinery": "32 رافعة ومعدة رفع",
+          "duration": "24 شهر"
+        },
+        {
+          "id": 3,
+          "tag": "الطاقة والمرافق",
+          "category": "energy",
+          "title": "مشروع البحر الأحمر السياحي",
+          "desc": "توفير مولدات طاقة ديزل صامتة وصديقة للبيئة مع أبراج إضاءة متحركة للعمل الليلي لتغطية احتياجات الطاقة في الجزر البعيدة ومواقع التشييد المعزولة.",
+          "machinery": "45 مولد وبرج إضاءة",
+          "duration": "12 شهر"
+        },
+        {
+          "id": 4,
+          "tag": "البنية التحتية",
+          "category": "infrastructure",
+          "title": "توسعة مطار الملك عبد العزيز بجدة",
+          "desc": "تأجير رافعات شوكية ثقيلة ومنصات رفع هوائية (Manlifts) بارتفاعات شاهقة لتمكين الفنيين من تركيب وتثبيت الهياكل المعدنية والواجهات الزجاجية لصالات السفر.",
+          "machinery": "18 منصة رفع شوكي",
+          "duration": "15 شهر"
+        }
+      ]
+    },
+    "clients": {
+      "title": "شركاء النجاح وآراء عملائنا",
+      "subtitle": "نفخر بثقة أضخم الهيئات الحكومية والشركات الإنشائية والخدمية الكبرى في خدماتنا وأسطول معداتنا.",
+      "list": [
+        {
+          "quote": "التعامل مع مؤسسة فهد مشبب الدوسري أحدث فارقاً كبيراً في التزامنا بمواعيد التسليم بمشروع مترو الرياض. أسطول معداتهم غاية في الحداثة، وفريق الدعم الفني حاضر على مدار الساعة لحل أي مشكلة تشغيلية فوراً.",
+          "name": "المهندس فهد المطيري",
+          "role": "مدير المشروع الرئيسي | نسما وشركاؤهم",
+          "initials": "ف.م"
+        },
+        {
+          "quote": "نوجه تحية لشركة مؤسسة فهد مشبب الدوسري على الدعم اللوجستي الاستثنائي. استأجرنا منهم رافعات تلسكوبية عملاقة وبلدوزرات ثقيلة لمشروع نيوم، وكانت الكفاءة التشغيلية 100% ودون أي تأخير في تلبية الطلبات.",
+          "name": "المهندس أحمد الشهري",
+          "role": "رئيس قطاع اللوجستيات | شركة السيف للمقاولات",
+          "initials": "أ.ش"
+        },
+        {
+          "quote": "كنا نبحث عن جهة تلتزم بمعايير أمان بيئية وتشغيلية صارمة لمشروع البحر الأحمر السياحي. وجدنا في تيتان رينت الشريك المثالي، حيث وفروا لنا مولدات صامتة حديثة ذات استهلاك وقود منخفض جداً.",
+          "name": "المهندس خالد الجاسم",
+          "role": "مدير التوريدات والمشتريات | شركة البحر الأحمر للتطوير",
+          "initials": "خ.ج"
+        }
+      ],
+      "partners": [
+        "أرامكو السعودية",
+        "سابك القابضة",
+        "شركة السيف للمقاولات",
+        "نسما وشركاؤهم",
+        "مجموعة بن لادن",
+        "المهيدب الإنشائية"
+      ]
+    },
+    "equipments": {
+      "title": "أسطول معداتنا الحديثة",
+      "subtitle": "نوفر تشكيلة واسعة من الآليات الثقيلة المتخصصة الجاهزة للتشغيل الفوري في كافة مواقع البناء والتأجير بأفضل الشروط.",
+      "filters": {
+        "all": "الكل",
+        "drilling": "معدات الحفر",
+        "transport": "معدات النقل",
+        "loading": "معدات التحميل",
+        "paving": "معدات رصف"
+      },
+      "ctaRequest": "طلب إيجار الآن"
+    },
+    "contact": {
+      "title": "تواصل معنا واطلب تسعيرة",
+      "subtitle": "تواصل مع مستشارينا الفنيين الآن للحصول على عرض أسعار مخصص لمشروعك واختيار باقة التأجير الأنسب لك.",
+      "form": {
+        "title": "نموذج الاستفسار وطلب الإيجار",
+        "subtitle": "يرجى تعبئة بياناتك وسيقوم خبراؤنا بالرد عليك في غضون 30 دقيقة عمل.",
+        "nameLabel": "الاسم الكامل *",
+        "namePlaceholder": "مثال: المهندس محمد ",
+        "phoneLabel": "رقم الجوال *",
+        "phonePlaceholder": "05xxxxxxx",
+        "emailLabel": "البريد الإلكتروني",
+        "emailPlaceholder": "name@company.com",
+        "equipmentLabel": "نوع المعدة المطلوبة",
+        "equipmentSelectDefault": "-- اختر الفئة المطلوبة --",
+        "messageLabel": "تفاصيل الطلب (المشروع ومدة الإيجار المتوقعة)",
+        "messagePlaceholder": "اكتب تفاصيل موقع العمل وعدد ساعات التشغيل المطلوبة...",
+        "submitBtn": "إرسال طلب التسعيرة",
+        "submitting": "جاري إرسال طلبك...",
+        "alertFields": "يرجى ملء الحقول الأساسية (الاسم الكامل ورقم الجوال)",
+        "successTitle": "تم إرسال طلبك بنجاح!",
+        "successDesc": "شكراً لتواصلك مع تيتان رينت. تم استلام تفاصيل طلبك وتم تعيين مسؤول تسعير لمراجعتها. سنتصل بك على الرقم المزود في غضون 30 دقيقة.",
+        "backBtn": "العودة للنموذج"
+      },
+      "info": {
+        "addressLabel": "المقر الرئيسي",
+        "addressVal": "طريق جعفر الأفضلي حي الصناعية, المبرز, المملكة العربية السعودية",
+        "phoneLabel1": "الهاتف",
+        "phoneLabel2": "الهاتف المباشر والمبيعات",
+        "phoneLabel3": "الهاتف المباشر للحسابات",
+        "emailLabell": "البريد الإلكتروني",
+        "emailLabel2": "البريد الإلكتروني للمبيعات",
+        "emailLabel3": "البريد الإلكتروني للحسابات"
+      }
+    },
+    "footer": {
+      "copyright": "مؤسسة فهد مشبب الدوسري لتأجير المعدات الثقيلة. جميع الحقوق محفوظة."
+    }
+  },
+  "en": {
+    "navbar": {
+      "hero": "Home",
+      "about": "About Us",
+      "equipments": "Equipments",
+      "chooseUs": "Why Us",
+      "missionVision": "Vision & Mission",
+      "projects": "Projects",
+      "clients": "Clients",
+      "contact": "Contact Us",
+      "cta": "Request Quote",
+      "languageToggle": "العربية"
+    },
+    "hero": {
+      "tagline": "Your Trusted Partner in Construction Projects",
+      "title": "Power, Performance, & Reliability",
+      "titleSpan": "To Complete Your Megaprojects",
+      "description": "We provide the latest heavy and construction equipment with integrated maintenance services and 24/7 technical support to ensure your business continuity and project efficiency at the best prices.",
+      "ctaExplore": "Browse Available Equipments",
+      "ctaConsult": "Get Free Consultation",
+      "stats": [
+        {
+          "value": "+500",
+          "label": "Modern Equipments Ready"
+        },
+        {
+          "value": "+15",
+          "label": "Years of Industrial Leadership"
+        },
+        {
+          "value": "99%",
+          "label": "Customer Satisfaction Rate"
+        }
+      ]
+    },
+    "about": {
+      "tagline": "About Us",
+      "title": "The Strong & Supporting Arm",
+      "titleSpan": "For Contracting & Construction Projects",
+      "text": "Fahad M Al Dossary Est. is a trusted provider of high-quality rental equipment for construction, industrial, and event needs. We combine a wide range of reliable machinery with exceptional customer service, ensuring our clients get the right tools to complete their projects efficiently, safely, and on budget.",
+      "features": [
+        {
+          "title": "Absolute & Certified Safety",
+          "desc": "All our equipment undergoes rigorous periodic inspections and holds certified safety licenses to protect your site and workforce."
+        },
+        {
+          "title": "24/7 Technical Support",
+          "desc": "A mobile maintenance team is ready to intervene immediately at any time to ensure uninterrupted work progress."
+        },
+        {
+          "title": "Modern & Diverse Fleet",
+          "desc": "We provide the latest equipment models from top global manufacturers (Caterpillar, Komatsu, JCB)."
+        },
+        {
+          "title": "Flexible Rental Terms",
+          "desc": "Daily, weekly, monthly, or annual rental options customized specifically to fit your project scope and budget flow."
+        }
+      ],
+      "highlightsTitle": "Achievements to Proud Of",
+      "highlights": [
+        {
+          "label": "Projects Supported",
+          "value": "+1,200 Projects"
+        },
+        {
+          "label": "Fleet Operational Uptime",
+          "value": "99.8% Uptime"
+        },
+        {
+          "label": "Technical Staff & Engineers",
+          "value": "+150 Experts"
+        },
+        {
+          "label": "Branches & City Coverage",
+          "value": "Kingdom-wide"
+        }
+      ]
+    },
+    "chooseUs": {
+      "title": "Why Choose Fahad M Al Dossary Est?",
+      "subtitle": "Your trusted partner for equipment rental and project support.",
+      "reasons": [
+        {
+          "title": "Wide Inventory",
+          "desc": "From heavy machinery to small tools, we provide equipment for projects of all sizes."
+        },
+        {
+          "title": "Well-Maintained Fleet",
+          "desc": "Regular inspections and servicing ensure reliable, ready-to-work equipment."
+        },
+        {
+          "title": "Flexible Rental Terms",
+          "desc": "Daily, weekly, or monthly rental options tailored to your project needs."
+        },
+        {
+          "title": "Expert Support",
+          "desc": "A dedicated team committed to helping you choose the right equipment."
+        },
+        {
+          "title": "On-Time Delivery",
+          "desc": "We deliver equipment when you need it, keeping your project on schedule."
+        },
+        {
+          "title": "Performance & Operation Analytics",
+          "desc": "We provide our corporate clients with regular reports on equipment efficiency, fuel usage, and actual working hours to optimize project management."
+        }
+      ]
+    },
+    "missionVision": {
+      "title": "Our Vision, Mission & Values",
+      "subtitle": "Discover the core principles and professional values that drive the success of Fahad M Al Dossary Est.",
+      "tabs": {
+        "mission": {
+          "title": "Our Mission",
+          "subtitle": "Why we exist and how we contribute"
+        },
+        "vision": {
+          "title": "Our Vision",
+          "subtitle": "Our ambition for the future"
+        },
+        "values": {
+          "title": "Core Values",
+          "subtitle": "The principles that guide our decisions"
+        }
+      },
+      "details": {
+        "mission": {
+          "title": "Empowering Businesses Through Reliable Equipment Solutions",
+          "text": "Our mission is to empower businesses and individuals with access to high-quality, readily available equipment at competitive rates, helping them achieve their goals without the burden of ownership and maintenance costs.",
+          "list": [
+            {
+              "id": 1,
+              "title": "Absolute Commitment to Safety and Quality",
+              "text": ""
+            },
+            {
+              "id": 2,
+              "title": "Providing Advanced and Efficient Logistics Solutions",
+              "text": ""
+            },
+            {
+              "id": 3,
+              "title": "Offering Flexible Rental Solutions",
+              "text": ""
+            },
+            {
+              "id": 4,
+              "title": "Continuous Investment in Our Team's Expertise",
+              "text": ""
+            }
+          ]
+        },
+        "vision": {
+          "title": "Leading the Region in Equipment Rental Solutions",
+          "text": "At Fahad M Al Dossary Est., we aspire to become the preferred equipment rental partner across the region. We strive to lead the industry through reliability, innovation, and customer-focused services while supporting the future growth of construction and industrial sectors.",
+          "list": [
+            {
+              "id": 1,
+              "title": "Geographical Expansion and Regional Growth",
+              "text": ""
+            },
+            {
+              "id": 2,
+              "title": "Digital Transformation of Rental Operations",
+              "text": ""
+            },
+            {
+              "id": 3,
+              "title": "Reducing Environmental Impact",
+              "text": ""
+            },
+            {
+              "id": 4,
+              "title": "Supporting Saudi Vision 2030",
+              "text": ""
+            }
+          ]
+        },
+        "values": {
+          "title": "Strong Principles That Build Lasting Trust",
+          "text": "We believe that values are the foundation of every successful business relationship. Therefore, all our operations and interactions are guided by professional and ethical principles that ensure transparency, responsibility, and long-term trust.",
+          "list": [
+            {
+              "id": 1,
+              "title": "Safety First",
+              "text": "We prioritize the safety of our clients, employees, and community through regular maintenance, continuous training, and strict safety standards."
+            },
+            {
+              "id": 2,
+              "title": "Reliability & Integrity",
+              "text": "We provide dependable equipment and services while conducting all business with honesty, transparency, fairness, and mutual respect."
+            },
+            {
+              "id": 3,
+              "title": "Customer Focus",
+              "text": "We listen carefully to our clients, understand their needs, and deliver solutions tailored to their specific requirements."
+            },
+            {
+              "id": 4,
+              "title": "Innovation",
+              "text": "We embrace modern technologies and smart solutions to improve efficiency and enhance the quality of our services."
+            },
+            {
+              "id": 5,
+              "title": "Sustainability",
+              "text": "We support environmentally responsible practices and encourage the efficient use of resources for a more sustainable future."
+            },
+            {
+              "id": 6,
+              "title": "Teamwork",
+              "text": "We believe that collaboration and teamwork are the foundation of success, both within our organization and in partnership with our clients."
+            }
+          ]
+        }
+      }
+    },
+    "projects": {
+      "title": "Key Contributed Projects",
+      "subtitle": "We are proud to be the trusted partner relied upon by top construction contractors to supply heavy machinery for major national projects.",
+      "filters": {
+        "all": "All",
+        "infrastructure": "Infrastructure",
+        "transport": "Transport & Transit",
+        "energy": "Energy & Utilities"
+      },
+      "list": [
+        {
+          "id": 1,
+          "tag": "Infrastructure",
+          "category": "infrastructure",
+          "title": "The Line Project - NEOM",
+          "desc": "Providing a complete fleet of crawler excavators and giant D10 bulldozers to grade the land and pave the initial route for the smart city of the future.",
+          "machinery": "50 Excavators & Bulldozers",
+          "duration": "18 Months"
+        },
+        {
+          "id": 2,
+          "tag": "Transport & Transit",
+          "category": "transport",
+          "title": "Riyadh Metro Project",
+          "desc": "Supplying massive telescopic cranes (up to 200 tons) and mobile concrete pumps to facilitate concrete pouring and bridge installation at key stations.",
+          "machinery": "32 Cranes & Hoisting Equipment",
+          "duration": "24 Months"
+        },
+        {
+          "id": 3,
+          "tag": "Energy & Utilities",
+          "category": "energy",
+          "title": "The Red Sea Tourism Project",
+          "desc": "Supplying silent, eco-friendly diesel generators and mobile light towers for night work, covering power needs in isolated island sites.",
+          "machinery": "45 Generators & Light Towers",
+          "duration": "12 Months"
+        },
+        {
+          "id": 4,
+          "tag": "Infrastructure",
+          "category": "infrastructure",
+          "title": "Jeddah Airport Expansion",
+          "desc": "Renting heavy forklifts and high-reach manlifts to enable technicians to install steel structures and glass facades for the passenger terminals.",
+          "machinery": "18 Forklift Platforms",
+          "duration": "15 Months"
+        }
+      ]
+    },
+    "clients": {
+      "title": "Success Partners & Clients' Reviews",
+      "subtitle": "We are proud of the trust placed in our fleet and services by the largest government bodies and major construction enterprises.",
+      "list": [
+        {
+          "quote": "Working with Fahad M Al Dossary Est made a huge difference in meeting our deadlines for the Riyadh Metro project. Their fleet is extremely modern, and their support team was present 24/7 to resolve any issue instantly.",
+          "name": "Eng. Fahad Al-Mutairi",
+          "role": "Chief Project Manager | Nesma & Partners",
+          "initials": "F.M"
+        },
+        {
+          "quote": "We salute Fahad M Al Dossary Est for their exceptional logistics support. We rented large telescopic cranes and heavy bulldozers for NEOM. The operational efficiency was 100% with no delays.",
+          "name": "Eng. Ahmed Al-Shehri",
+          "role": "Head of Logistics | Al-Seif Contracting",
+          "initials": "A.S"
+        },
+        {
+          "quote": "We were looking for a partner committed to strict environmental and safety standards for the Red Sea Project. We found the perfect partner in Titan Rent, supplying silent, low-emission generators.",
+          "name": "Eng. Khalid Al-Jassim",
+          "role": "Procurement Director | Red Sea Development Co.",
+          "initials": "K.J"
+        }
+      ],
+      "partners": [
+        "Saudi Aramco",
+        "SABIC Holding",
+        "Al-Seif Contracting",
+        "Nesma & Partners",
+        "Bin Laden Group",
+        "Al-Muhaidib Construction"
+      ]
+    },
+    "equipments": {
+      "title": "Our Modern Equipment Fleet",
+      "subtitle": "We provide a wide range of specialized heavy machinery ready for immediate operation in all construction sites under optimal terms.",
+      "filters": {
+        "all": "All",
+        "drilling": "Drilling & Excavation",
+        "transport": "Transport Machinery",
+        "loading": "Loading Machinery",
+        "paving": "paving Machinery"
+      },
+      "ctaRequest": "Request Rental Now"
+    },
+    "contact": {
+      "title": "Contact Us & Request a Quote",
+      "subtitle": "Contact our technical consultants now to get a customized price quotation for your project and select the best rental package.",
+      "form": {
+        "title": "Inquiry & Rental Request Form",
+        "subtitle": "Please fill in your details, and our experts will respond within 30 business minutes.",
+        "nameLabel": "Full Name *",
+        "namePlaceholder": "e.g., Eng. Mohammed",
+        "phoneLabel": "Mobile Number *",
+        "phonePlaceholder": "05xxxxxxx",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "name@company.com",
+        "equipmentLabel": "Required Equipment Type",
+        "equipmentSelectDefault": "-- Select Required Category --",
+        "messageLabel": "Request Details (Project & Expected Rental Duration)",
+        "messagePlaceholder": "Describe the worksite location and required operating hours...",
+        "submitBtn": "Send Quote Request",
+        "submitting": "Sending request...",
+        "alertFields": "Please fill in the required fields (Full Name and Mobile Number)",
+        "successTitle": "Request Sent Successfully!",
+        "successDesc": "Thank you for contacting Titan Rent. We have received your inquiry, and a rental officer has been assigned to review it. We will call you within 30 minutes.",
+        "backBtn": "Back to Form"
+      },
+      "info": {
+        "addressLabel": "Head Office",
+        "addressVal": "Jaafar Al Afdali Road, Industrial District, Al Mubarraz, Saudi Arabia",
+        "phoneLabel1": "Phone",
+        "phoneLabel2": "Sales Department",
+        "phoneLabel3": "Accounts Department",
+        "emailLabell": "Email",
+        "emailLabel2": "Sales Email",
+        "emailLabel3": "Accounts Email"
+      }
+    },
+    "footer": {
+      "copyright": "Fahad M Al Dossary Est Rent Heavy Equipment Rental. All rights reserved."
+    }
+  },
+  "equipments": [
+    {
+      "id": 1,
+      "image": "images/Equpments/drilling2.jpeg",
+      "name": {
+        "ar": "بيلدوزر",
+        "en": "Bulldozer"
+      },
+      "use": {
+        "ar": "يستخدم في حفر الأساسات العميقة، تسوية التربة وتجهيز المواقع في المشروعات الكبرى.",
+        "en": "Used for deep foundation excavation, soil leveling, and site grading in major projects."
+      },
+      "category": "drilling"
+    },
+    {
+      "id": 2,
+      "image": "images/Equpments/drilling3.jpeg",
+      "name": {
+        "ar": "حفار (إكسكافيتور)",
+        "en": "Excavator"
+      },
+      "use": {
+        "ar": "يُستخدم في أعمال الحفر وتسوية التربة وتجهيز المواقع للمشاريع الإنشائية والبنية التحتية.",
+        "en": "Used for excavation, earthmoving, and site preparation in construction and infrastructure projects."
+      },
+      "category": "drilling"
+    },
+    {
+      "id": 3,
+      "image": "images/Equpments/paving1.jpeg",
+      "name": {
+        "ar": "مُمهدة الطرق",
+        "en": "Motor Grader"
+      },
+      "use": {
+        "ar": "تستخدم لتسوية الأسطح الأرضية بدقة، وإنشاء منحدرات لتصريف.",
+        "en": "Grading, leveling surfaces, creating slopes, distributing materials."
+      },
+      "category": "paving"
+    },
+    {
+      "id": 4,
+      "image": "images/Equpments/paving2.jpeg",
+      "name": {
+        "ar": "رصافة",
+        "en": "Roller Compactor"
+      },
+      "use": {
+        "ar": "تستخدم لضغط الأسفلت والتربة والخرسانة لإنشاء سطح مستو وصلب ومستقر.",
+        "en": "Compacting asphalt, soil, concrete to create a dense and stable surface."
+      },
+      "category": "paving"
+    },
+    {
+      "id": 5,
+      "image": "images/Equpments/transport2.jpeg",
+      "name": {
+        "ar": "ناقلة مياه",
+        "en": "Water Tanker"
+      },
+      "use": {
+        "ar": "تُستخدم لنقل وتوزيع المياه في مواقع البناء والمشاريع الصناعية، وأعمال مكافحة الغبار وري الطرق.",
+        "en": "Used for transporting and distributing water in construction sites, industrial projects, dust control, and road watering operations."
+      },
+      "category": "transport"
+    },
+    {
+      "id": 6,
+      "image": "images/Equpments/transport1.jpeg",
+      "name": {
+        "ar": "شاحنة بوم (رافعة هيدروليكية)",
+        "en": "Boom Truck"
+      },
+      "use": {
+        "ar": "تُستخدم لرفع ونقل المعدات والمواد الثقيلة في مواقع البناء والمشاريع الصناعية بكفاءة وأمان.",
+        "en": "Used for lifting and transporting heavy equipment and materials at construction and industrial sites safely and efficiently."
+      },
+      "category": "transport"
+    },
+    {
+      "id": 7,
+      "image": "images/Equpments/transport3.jpeg",
+      "name": {
+        "ar": "شاحنة قلاب (دامب ترك)",
+        "en": "Dump Truck"
+      },
+      "use": {
+        "ar": "تُستخدم لنقل وتفريغ التربة والرمال والمواد الإنشائية في مواقع المشاريع بكفاءة وسرعة.",
+        "en": "Used for transporting and unloading soil, sand, and construction materials efficiently on project sites."
+      },
+      "category": "transport"
+    },
+    {
+      "id": 8,
+      "image": "images/Equpments/loading2.jpeg",
+      "name": {
+        "ar": "لودر حفار (باكهو)",
+        "en": "Backhoe Loader"
+      },
+      "use": {
+        "ar": "يُستخدم لأعمال الحفر والتحميل والردم وتجهيز المواقع في مشاريع البناء والإنشاءات.",
+        "en": "Used for excavation, loading, backfilling, and site preparation works in construction projects."
+      },
+      "category": "loading"
+    },
+    {
+      "id": 9,
+      "image": "images/Equpments/loading1.jpeg",
+      "name": {
+        "ar": "لودر بعجلات",
+        "en": "Wheel Loader"
+      },
+      "use": {
+        "ar": "يُستخدم لتحميل ونقل التربة والرمال والمواد المختلفة داخل مواقع البناء والمشاريع.",
+        "en": "Used for loading and transporting soil, sand, and various materials within construction and project sites."
+      },
+      "category": "loading"
+    },
+    {
+      "id": 10,
+      "image": "images/Equpments/loading3.jpeg",
+      "name": {
+        "ar": "رافعة (كرين)",
+        "en": "Crane"
+      },
+      "use": {
+        "ar": "تُستخدم لرفع ونقل الأحمال الثقيلة وتركيب المعدات في مواقع البناء والمشاريع الصناعية.",
+        "en": "Used for lifting and moving heavy loads and installing equipment at construction and industrial sites."
+      },
+      "category": "loading"
+    }
+  ]
+}
